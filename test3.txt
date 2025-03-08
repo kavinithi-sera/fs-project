@@ -1,0 +1,19 @@
+PS D:\CHRIST\full stack\final_project\fs-project> git add test3.txt
+
+PS D:\CHRIST\full stack\final_project\fs-project> git commit -m "test3.txt file added"
+
+[main ffebe35] test3.txt file added
+ 1 file changed, 0 insertions(+), 0 deletions(-)  
+ create mode 100644 test3.txt
+
+PS D:\CHRIST\full stack\final_project\fs-project> git push origin main 
+
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 273 bytes | 273.00 KiB/s, done. 
+Total 2 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/kavinithi-sera/fs-project.git
+   1bc36e5..ffebe35  main -> main
+PS D:\CHRIST\full stack\final_project\fs-project>  
